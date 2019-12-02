@@ -23,7 +23,7 @@ dependencies {
   implementation 'com.squareup.retrofit2:retrofit:2.5.0'
   implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
   implementation 'com.squareup.okhttp3:logging-interceptor:3.12.1'
-  implementation 'ee.traxnet.sdk:traxnet-sdk-android:1.0.0'
+  implementation 'ee.traxnet.sdk:traxnet-sdk-android:1.2.1'
 
   implementation 'com.unity3d.ads:unity-ads:3.0.0'
   implementation 'com.google.android.gms:play-services-ads:17.2.1'
